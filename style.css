@@ -1,0 +1,48 @@
+.div-father{
+    background: darkorchid;
+    width: 99vw;
+    height: 95vh;
+}
+.div-a{
+    background: blue;
+    width: 80%;
+    height: 30%;
+}
+.div-b{
+    background: darkred;
+    width: 50%;
+    height: 50%;
+}
+.div-c{
+    background: blue;
+    width: 80%;
+    height: 30%;
+}
+.div-d{
+    background: darkred;
+    width: 50%;
+    height: 50%;
+}
+.div-e{
+    background: blue;
+    width: 80%;
+    height: 30%;
+}
+.div-f{
+    background: darkred;
+    width: 50%;
+    height: 50%;
+}
+.texto{
+    color: white;
+    font-size: 30px;
+}
+.letraA{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.letraB{
+    font-family: Verdana, sans-serif;
+}
+.letraC{
+    font-family: Luminari, fantasy;
+}
